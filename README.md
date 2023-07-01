@@ -48,7 +48,7 @@
 
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/realtime-age-gender-detection.git</code></pre>
+    <pre><code>git clone https://github.com/Abdullah-129/Real-Time-Age-and-Gender-Detection-with-Video-Ads</code></pre>
   </li>
   <li>Install the required dependencies:
     <pre><code>pip install -r requirements.txt</code></pre>
