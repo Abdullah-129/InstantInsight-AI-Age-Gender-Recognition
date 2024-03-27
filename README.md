@@ -56,7 +56,7 @@
 
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/Abdullah-129/Real-Time-Age-and-Gender-Detection-with-Video-Ads</code></pre>
+      <pre><code>git clone https://github.com/Abdullah-129/InstantInsight-AI-Age-Gender-Recognition.git</code></pre>
     </li>
     <li>Install the required dependencies:
       <pre><code>pip install -r requirements.txt</code></pre>
